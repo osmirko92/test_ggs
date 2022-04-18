@@ -24,7 +24,9 @@ rm test1.txt
 mv /home/osmirko/Desktop/GIT/test_ggs/test2 /home/osmirko/Desktop/GIT/test_ggs/directory__without_file
 ```
 -    Insert 'test1' text into test1/test1.txt file.
-
+```console
+cp test.txt /home/osmirko/Desktop/GIT/test_ggs/test1/test1.txt
+```
 -    print the text from the test1/test1.txt file.
 
 -    Insert 'test2' into the end of test1/test1.txt file.
