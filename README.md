@@ -28,7 +28,9 @@ mv /home/osmirko/Desktop/GIT/test_ggs/test2 /home/osmirko/Desktop/GIT/test_ggs/d
 echo test1 > /home/osmirko/Desktop/GIT/test_ggs/test1/test1.txt 
 ```
 -    print the text from the test1/test1.txt file.
-
+```console
+cat test1.txt
+```
 -    Insert 'test2' into the end of test1/test1.txt file.
 
 -    print the text from the test1/test1.txt file.
