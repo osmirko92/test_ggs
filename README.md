@@ -20,7 +20,9 @@ cp -R /home/osmirko/Desktop/GIT/test_ggs/test /home/osmirko/Desktop/GIT/test_ggs
 rm test1.txt
 ```
 -    Rename test2 folder into directory_without_file
-
+```console
+mv /home/osmirko/Desktop/GIT/test_ggs/test2 /home/osmirko/Desktop/GIT/test_ggs/directory__without_file
+```
 -    Insert 'test1' text into test1/test1.txt file.
 
 -    print the text from the test1/test1.txt file.
