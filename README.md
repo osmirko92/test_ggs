@@ -47,8 +47,7 @@ du test1
 
 -   Create test directory and block access for all to it.
 ```console
-chmod -R 700 test
-chown osmirko:sudo test
+chmod -R 000 test
 ```
 -   Try to remove that directory.
 ```console
