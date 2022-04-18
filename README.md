@@ -47,11 +47,13 @@ du test1
 
 -   Create test directory and block access for all to it.
 ```console
-chmod -R 000 test
+sudo chmod -R 000 test
 ```
 -   Try to remove that directory.
 ```console
-rm -r test
+osmirko@shared-System-Product-Name:~/Desktop/GIT/test_ggs$ rm -R test
+rm: descend into write-protected directory 'test'? y
+rm: remove write-protected directory 'test'? y
 ```
 -    Create simple script which prints current date. Try to execute it.
 
