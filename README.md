@@ -32,11 +32,17 @@ echo test1 > /home/osmirko/Desktop/GIT/test_ggs/test1/test1.txt
 cat test1.txt
 ```
 -    Insert 'test2' into the end of test1/test1.txt file.
-
+```console
+echo test2 >> /home/osmirko/Desktop/GIT/test_ggs/test1/test1.txt
+```
 -    print the text from the test1/test1.txt file.
-
+```console
+cat test1.txt
+```
 - check the size of test1 directory
-
+```console
+du test1
+```
 ## Permissions
 
 -   Create test directory and block access for all to it.
