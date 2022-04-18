@@ -25,7 +25,7 @@ mv /home/osmirko/Desktop/GIT/test_ggs/test2 /home/osmirko/Desktop/GIT/test_ggs/d
 ```
 -    Insert 'test1' text into test1/test1.txt file.
 ```console
-cp test.txt /home/osmirko/Desktop/GIT/test_ggs/test1/test1.txt
+echo test1 > /home/osmirko/Desktop/GIT/test_ggs/test1/test1.txt 
 ```
 -    print the text from the test1/test1.txt file.
 
