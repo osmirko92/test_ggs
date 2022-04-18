@@ -7,8 +7,9 @@ mkdir test
 ```
 
 - Create file test1.txt inside the test1 directory.
+```console
 cat test1.txt
-
+```
 
 -   Create copy of folder test1 with name test2.  
 
