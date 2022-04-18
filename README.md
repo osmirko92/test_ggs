@@ -12,7 +12,9 @@ touch test.txt
 ```
 
 -   Create copy of folder test1 with name test2.  
-
+```console
+cp -R /home/osmirko/Desktop/GIT/test_ggs/test /home/osmirko/Desktop/GIT/test_ggs/test2
+```
 -    Delete file test1.txt inside test2 directory.
 
 -    Rename test2 folder into directory_without_file
