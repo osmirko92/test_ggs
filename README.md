@@ -51,7 +51,7 @@ sudo chmod -R 000 test
 ```
 -   Try to remove that directory.
 ```console
-osmirko@shared-System-Product-Name:~/Desktop/GIT/test_ggs$ rm -R test
+rm -R test
 rm: descend into write-protected directory 'test'? y
 rm: remove write-protected directory 'test'? y
 ```
