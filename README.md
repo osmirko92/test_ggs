@@ -56,7 +56,13 @@ rm: descend into write-protected directory 'test'? y
 rm: remove write-protected directory 'test'? y
 ```
 -    Create simple script which prints current date. Try to execute it.
+```console
+vim script1.sh
+   #! /bin/sh.
+   date
 
+bash script1.sh
+```
 
 ## Log checking
 
