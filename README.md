@@ -67,8 +67,9 @@ bash script1.sh
 ## Log checking
 
 -  Count lines in the file test.txt.
-
-
+```console
+wc test.txt
+```
 - Show last 3 lines from the test.txt file. 
 
 
