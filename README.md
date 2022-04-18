@@ -51,8 +51,9 @@ chmod -R 700 test
 chown osmirko:sudo test
 ```
 -   Try to remove that directory.
-
-
+```console
+rm -r test
+```
 -    Create simple script which prints current date. Try to execute it.
 
 
