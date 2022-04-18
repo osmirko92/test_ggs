@@ -46,7 +46,10 @@ du test1
 ## Permissions
 
 -   Create test directory and block access for all to it.
-
+```console
+chmod -R 700 test
+chown osmirko:sudo test
+```
 -   Try to remove that directory.
 
 
