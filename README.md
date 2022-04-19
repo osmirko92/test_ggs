@@ -68,7 +68,6 @@ bash script1.sh
 
 -  Count lines in the file test.txt.
 ```console
-wc test.txt
 ```
 - Show last 3 lines from the test.txt file. 
 
